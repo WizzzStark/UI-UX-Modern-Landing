@@ -1,8 +1,21 @@
-# React + Vite
+# Small Preview
+![brainwave](https://github.com/WizzzStark/UI-UX-Modern-Landing/assets/85120579/97ef854b-4dc4-4807-9f9b-2e29e3b92d74)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Instructions
 
-Currently, two official plugins are available:
+## Visit deployed website
+https://ui-ux-modern-landing.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deploy proyect on localhost
+### Clone the proyect
+```
+git clone https://github.com/WizzzStark/UI-UX-Modern-Landing/
+```
+### Install dependencies
+```
+npm install
+```
+### Run website on localhost:3000
+```
+npm run dev
+```
