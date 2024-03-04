@@ -5,6 +5,8 @@ import Hero from "./components/Hero";
 import Collaboration from "./components/Collaboration";
 import Services from "./components/Services";
 import Pricing from "./components/Pricing";
+import Roadmap from "./components/RoadMap";
+import Footer from "./components/Footer";
 
 function App() {
 	return (
@@ -16,6 +18,8 @@ function App() {
 				<Collaboration />
 				<Services />
 				<Pricing />
+				<Roadmap />
+				<Footer />
 			</div>
 			<ButtonGradient />
 		</>
